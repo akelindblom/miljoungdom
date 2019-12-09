@@ -135,8 +135,8 @@ nav ul li a:hover {
 .slide {
     text-align: center;
     display: grid;
-    grid-template-rows: 2em 15vw 6em;
-    grid-row-gap: 3vw;
+    grid-template-rows: repeat(2, minmax(min-content, max-content));
+    grid-row-gap: 5vw;
     grid-template-columns: repeat(9, 1fr);
     color: white;
     transition: 1s;
@@ -266,11 +266,16 @@ nav ul li a:hover {
     margin-right: 0;
 }
 
-@media screen and (max-width: 56.25em) {
-    .slide {
-        grid-template-rows: 2em 9.5vw 9em;
-        grid-row-gap: 1.7em;
+@media screen and (max-width: 30em) {
+    .leftArrow p {
+        margin-left: 0;
     }
+    .rightArrow p {
+        margin-right: 0;
+    }
+}
+
+@media screen and (max-width: 56.25em) {
     .slide h1 {
         font-size: 1.95em;
     }
