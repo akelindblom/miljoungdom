@@ -4,13 +4,23 @@ body {
     overflow-y: scroll;
 }
 
-/* Header */
-.header {
-    display: grid;
-    overflow: hidden;
+/* Navbar (general stuff) */
+nav {
+    position: sticky;
+    top: 0;
+    background: white;
 }
 
-/* Header: navbar */
+nav ul li a {
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+    transition: 0.2s;
+}
+
+nav ul li a:hover {
+    color: #4d4d4d;
+}
 
 /* Navbar big screen */
 
@@ -109,19 +119,6 @@ body {
     grid-row-gap: 5px;
 }
 
-/* Navbar for all scenarios */
-
-nav ul li a {
-    text-decoration: none;
-    font-weight: bold;
-    color: black;
-    transition: 0.2s;
-}
-
-nav ul li a:hover {
-    color: #4d4d4d;
-}
-
 /* Navbar shift between big and small screen */
 
 @media screen and (max-width: 67.5em) {
@@ -143,6 +140,7 @@ nav ul li a:hover {
     grid-template-columns: repeat(9, 1fr);
     color: white;
     transition: 1s;
+    overflow: hidden;
 }
 
 .slide2, .slide3, .slide4, .slide5 {
