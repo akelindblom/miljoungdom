@@ -2,6 +2,7 @@ body {
     margin: 0;
     font-family: 'Open Sans', sans-serif;
     overflow-y: scroll;
+    overflow-x: hidden;
 }
 
 /* Navbar (general stuff) */
@@ -140,7 +141,6 @@ nav ul li a:hover {
     grid-template-columns: repeat(9, 1fr);
     color: white;
     transition: 1s;
-    overflow: hidden;
 }
 
 .slide2, .slide3, .slide4, .slide5 {
