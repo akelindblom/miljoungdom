@@ -1,5 +1,16 @@
-/* Navbar dropdown onclick function */
+/* Navbar shrink on scroll */
+window.onscroll = function() {scrollFunction()};
 
+function scrollFunction() {
+    if (document.body.scrollTop > 35 || document.documentElement.scrollTop > 35) {
+        document.getElementById("logo").style.fontSize = "1em";
+    }
+    else {
+        document.getElementById("logo").style.fontSize = "1.5em";
+    }
+}
+
+/* Navbar dropdown onclick function */
 function dropdownNavbar() {
     var x = document.getElementById("dropdownMenu");
     if (x.style.display === "grid") {
@@ -31,3 +42,28 @@ function showDivs(n) {
     }
     x[slideIndex-1].style.display = "grid";
 }
+
+function currentSlide(n){
+  clearInterval(myTimer);
+  myTimer = setInterval(function(){plusSlides(n + 1)}, 4000);
+  showDivs(slideIndex = n);
+}
+
+function plusSlides(n){
+  clearInterval(myTimer);
+  if (n < 0){
+    showDivs(slideIndex -= 1);
+  } else {
+   showDivs(slideIndex += 1); 
+  }
+  if (n == -1){
+    myTimer = setInterval(function(){plusSlides(n + 2)}, 4000);
+  } else {
+    myTimer = setInterval(function(){plusSlides(n + 1)}, 4000);
+  }
+}
+
+window.addEventListener("load",function() {
+    showDivs(slideIndex);
+    myTimer = setInterval(function(){plusSlides(1)}, 4000);
+})
