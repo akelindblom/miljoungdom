@@ -11,8 +11,6 @@ body {
 
 /* Navbar (general stuff) */
 nav {
-    position: sticky;
-    top: 0;
     background: white;
 }
 
@@ -32,6 +30,8 @@ nav ul li a:hover {
 .big-screen {
     display: grid;
     grid-template-columns: repeat(9, 1fr);
+    position: sticky;
+    top: 0;
 }
 
 .big-screen .logo {
@@ -39,6 +39,11 @@ nav ul li a:hover {
     grid-column: 2;
     text-align: center;
     vertical-align: middle;
+    font-size: 1.5em;
+}
+
+.big-screen #logo {
+    transition: 0.5s;
 }
 
 .big-screen ul {
@@ -74,6 +79,7 @@ nav ul li a:hover {
     grid-column: 2/4;      /* ÄNDRA KOLONNERNA FÖR SMALL SCREEN NÄR EN BILD LÄGGS IN */
     text-align: center;
     vertical-align: middle;
+    font-size: 1.5em;
 }
 
 .icon {
@@ -141,7 +147,7 @@ nav ul li a:hover {
     text-align: center;
     display: grid;
     grid-template-rows: repeat(2, minmax(min-content, max-content));
-    grid-row-gap: 5vw;
+    grid-row-gap: 6vw;
     grid-template-columns: repeat(9, 1fr);
     color: white;
     transition: 1s;
@@ -336,8 +342,15 @@ nav ul li a:hover {
 .footer {
     background-color: #9DC183;
     display: grid;
-    grid-template-columns: 2fr 1fr 1fr 2fr;
+    grid-template-columns: 1fr 4fr 1fr;
     grid-column-gap: 5em;
+}
+
+.footer .info {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(min-content, max-content));
+    grid-column-gap: 5em;
+    justify-content: center;
 }
 
 @media screen and (max-width: 37.5em) {
@@ -345,5 +358,8 @@ nav ul li a:hover {
         grid-template-columns: none;
         text-align: center;
         grid-row-gap: 1em;
+    }
+    .footer .info {
+        grid-template-columns: none;
     }
 }
