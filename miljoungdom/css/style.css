@@ -248,7 +248,7 @@ nav ul li a:hover {
     align-self: center;
     font-size: 6em;
     font-family: 'Cormorant Garamond', serif;
-    margin-left: -2em;
+    margin-left: -25vw;
     transition: 0.15s;
 }
 
@@ -272,7 +272,7 @@ nav ul li a:hover {
     align-self: center;
     font-size: 6em;
     font-family: 'Cormorant Garamond', serif;
-    margin-right: -2em;
+    margin-right: -25vw;
     transition: 0.15s;
 }
 
