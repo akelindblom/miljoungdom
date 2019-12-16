@@ -282,13 +282,13 @@ nav ul li a:hover {
 
 .slide .slide-row1 h1 {
     animation: slideUp 0.9s ease;
-    -webkit-animation: slideUp 1.3s ease;
+    -webkit-animation: slideUp 0.9s ease;
 
 }
 
 .slide .slide-row1 p {
     animation: slideUp 1.2s ease;
-    -webkit-animation: slideUp 1.3s ease;
+    -webkit-animation: slideUp 1.2s ease;
 
 }
 
