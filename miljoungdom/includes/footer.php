@@ -6,11 +6,11 @@
                 <p>
                     Besöks- och postadress:
                     <br><br>
-                    Astronomisk Ungdom
+                    Miljöungdom
                     <br>
-                    Drottninggatan 120
+
                     <br>
-                    113 60 Stockholm
+                    
                     <br><br>
                     <a>Facebook</a>
                     <br><br>
@@ -22,15 +22,15 @@
                 <p>
                     E-post:
                     <br>
-                    kansli@au.se
+                    kontakt@miljöungdom.se
                     <br><br>
-                    Telefon: 070 - 000 90 56
+                    Telefon: 073 - 762 50 00
                     <br><br>
-                    Org.nr: 802467-7182
+                    Org.nr: 802527-3544
                     <br><br>
-                    Bankgiro: 128-8778
+                    Bankgiro:
                     <br>
-                    Swish: 123 032 33 37
+                    Swish:
                 </p>
             </div>
         </div>
