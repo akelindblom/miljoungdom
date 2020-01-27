@@ -22,7 +22,7 @@
     <!-- Menu big screen -->
     <nav id="slideNav1" class="big-screen">
         <a href="index.php" class="logo" id="logo">
-            <p>Lorem</p>
+            <p>Miljöungdom</p>
         </a>
         <ul>
             <li><a href="sida2.php">Bli medlem</a></li>
