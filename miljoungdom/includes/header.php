@@ -38,7 +38,7 @@
     <nav id="slideNav2" class="small-screen">
         <div class="topnav">
             <a href="index.php" class="logo">
-                <p>Lorem</p>
+                <p>Miljöungdom</p>
             </a>
             <div class="icon">
                 <a href="javascript:void(0);" onclick="dropdownNavbar()">
