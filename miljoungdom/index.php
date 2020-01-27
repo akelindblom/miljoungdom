@@ -4,8 +4,8 @@
             
         <div class="slide slide1">
             <div class="slide-row1">
-                <h1>Gillar du rymden?</h1>
-                <p>Det gör vi också! Astronomisk Ungdom samlar alla Sveriges unga rymdintresserade i en gemenskap.</p>
+                <h1>Vill du göra skillnad?</h1>
+                <p>Det vill vi också! Miljöungdom samlar alla Sveriges unga miljöengagerade i en gemenskap. Tillsammans gör vi skillnad!</p>
                 <button>Bli medlem</button>
             </div>
 
@@ -29,7 +29,7 @@
         <div class="slide slide2">
             <div class="slide-row1">
                 <h1>Delta i våra aktiviteter</h1>
-                <p>Vi driver astronomiläger, sommarforskarskola, poddradio, forum, bloggportal och mycket annat.</p>
+                <p>Vi stödjer dig som vill starta förening, organiserar studieresor och föreläsningar, fungerar som forum för miljöengagerade i hela Sverige, och mycket annat.</p>
                 <button>Se våra verksamheter</button>
             </div>
 
@@ -53,7 +53,7 @@
         <div class="slide slide3">
             <div class="slide-row1">
                 <h1>Ett förbund av föreningar</h1>
-                <p>AU är ett ungdomsförbund uppbyggt av medlemsföreningar inom olika områden.</p>
+                <p>Miljöungdom är ett ungdomsförbund uppbyggt av miljöföreningar runt om i Sverige. Anslut din skolas förening, eller starta en egen!</p>
                 <button>Se våra medlemsföreningar</button>
             </div>
 
@@ -76,8 +76,8 @@
 
         <div class="slide slide4">
             <div class="slide-row1">
-                <h1>Engagera dig</h1>
-                <p>Astronomisk Ungdom drivs av ideellt engagemang hos medlemmarna. Bli aktiv du också.</p>
+                <h1>Gå med!</h1>
+                <p>Delta i våra aktiviteter, träffa likasinnade från hela Sverige och utveckla ett handlingskraftigt hållbarhetsarbete på nationell skala. Helt gratis, såklart. Tillsammans gör vi skillnad!</p>
                 <button>Bli aktiv</button>
             </div>
 
@@ -100,8 +100,8 @@
 
         <div class="slide slide5">
             <div class="slide-row1">
-                <h1>Bli en del av AU</h1>
-                <p>Delta i våra aktiviteter, lär dig mer om rymden och träffa likasinnade från hela Sverige. Helt gratis.</p>
+                <h1>Engagera dig!</h1>
+                <p>Miljöungdom drivs av ideellt engagemang hos medlemmarna. Var med och ta vår verksamhet till nästa nivå!</p>
                 <button>Bli medlem nu</button>
             </div>
 
@@ -125,11 +125,18 @@
         <div class="section">
             <h2>Rubrik här</h2>
             
-            <p>Välkommen! Om du är medlem i en miljöförening vart som helst i Sverige kan du anmäla din förening att bli del av forumet Miljöungdom här. Som en medlem får du ta del av startpaket, organiserade utflykter, kontakter och mer.
-                
+            <p>
+            Välkommen! Om du är medlem i en miljöförening vart som helst i Sverige kan du anmäla din förening att bli del av förbundet Miljöungdom här. En medlemsförening får tillgång till allting som Miljöungdom erbjuder; en gemenskap av likasinnade, kontakter inför framtiden, tips om verksamheten, hjälp 
+            med det juridiska, och inflytande över förbundet Miljöungdom.
+            
             <br><br>
                 
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            Miljöungdom är ett förbund av föreningar. Det betyder att en enskild person inte kan gå med direkt i förbundet Miljöungdom utan bara genom att först vara medlem i en miljöförening, och sedan ansluta den föreningen till Miljöungdom.
+
+            <br><br>
+                
+            Är du inte medlem i en miljöförening, och har ingen lokal miljöförening som du kan gå med i? Miljöungdom erbjuder hjälp med att starta en egen miljöförening. Tryck här för att komma till vår sida om hur du startar en egen miljöförening, det är hur enkelt som helst!
+            </p>
         </div>
         
         <!-- JavaScript -->
