@@ -379,11 +379,19 @@ nav ul li a:hover {
     grid-column: 2/3;
 }
 
-.section .row1 {
+.section .row {
     grid-column: 2/3;
     display: grid;
     grid-template-columns: repeat(4, minmax(min-content, max-content));
     grid-column-gap: 3em;
+}
+
+/* Column alignment shift between big and small screen */
+
+@media screen and (max-width: 67.5em) {
+    .section .row {
+        grid-template-columns: repeat(2, minmax(min-content, max-content));
+    }
 }
 
 /* Footer */
