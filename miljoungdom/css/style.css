@@ -402,6 +402,7 @@ nav ul li a:hover {
     display: grid;
     grid-template-columns: 1fr 4fr 1fr;
     grid-column-gap: 5em;
+    color: white;
 }
 
 .footer .info {
