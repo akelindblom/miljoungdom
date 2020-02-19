@@ -23,6 +23,8 @@ nav {
     text-align: center;
     vertical-align: middle;
     font-size: 1.5em;
+    text-decoration: none;
+    color: black;
 }
 
 .big-screen #logo {
@@ -62,6 +64,8 @@ nav {
     text-align: center;
     vertical-align: middle;
     font-size: 1.5em;
+    text-decoration: none;
+    color: black;
 }
 
 .icon {
