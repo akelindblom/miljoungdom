@@ -121,6 +121,9 @@
                 <p class="active" onclick="currentSlide(5)">&bullet;</p>
             </div>
         </div>
+    
+    <a href="../uploads/test.pdf"> Länk till pdf </a>
+    <a href="../uploads/test.docx"> Länk till word </a>
 
         <div class="section">
             <h2>Rubrik här</h2>
