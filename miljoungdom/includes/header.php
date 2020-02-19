@@ -22,7 +22,7 @@
     <!-- Menu big screen -->
     <nav id="slideNav1" class="big-screen">
         <a href="index.php" class="logo" id="logo">
-            <p>Miljöungdom</p>
+            <p><b>Miljöungdom</b></p>
         </a>
         <ul>
             <li><a href="sida2.php">Bli medlem</a></li>
@@ -38,7 +38,7 @@
     <nav id="slideNav2" class="small-screen">
         <div class="topnav">
             <a href="index.php" class="logo">
-                <p>Miljöungdom</p>
+                <p><b>Miljöungdom</b></p>
             </a>
             <div class="icon">
                 <a href="javascript:void(0);" onclick="dropdownNavbar()">
