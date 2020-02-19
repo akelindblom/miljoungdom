@@ -394,7 +394,7 @@ nav ul li a:hover {
 
 /* Footer */
 .footer {
-    background-color: #9DC183;
+    background-color: #013220;
     display: grid;
     grid-template-columns: 1fr 4fr 1fr;
     grid-column-gap: 5em;
