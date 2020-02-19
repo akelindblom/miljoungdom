@@ -19,7 +19,6 @@ nav {
 }
 
 .big-screen .logo {
-    background-color: antiquewhite;
     grid-column: 2;
     text-align: center;
     vertical-align: middle;
@@ -59,7 +58,6 @@ nav {
 }
 
 .small-screen .logo {
-    background-color: antiquewhite; /* TA BORT NÄR LOGGAN ÄR INLAGD */
     grid-column: 2/3;      /* ÄNDRA KOLONNERNA FÖR SMALL SCREEN NÄR EN BILD LÄGGS IN */
     text-align: center;
     vertical-align: middle;
