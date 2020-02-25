@@ -5,8 +5,9 @@
         <div class="slide slide1">
             <div class="slide-row1">
                 <h1>Vill du göra skillnad?</h1>
-                <p>Det vill vi också! Miljöungdom samlar alla Sveriges unga miljöengagerade i en gemenskap. Tillsammans gör vi skillnad!</p>
-                <button>Bli medlem</button>
+                <p>Vi med! Miljöungdom är ett ideellt förbund som samlar alla Sveriges unga miljöengagerade i en gemenskap. Tillsammans gör vi skillnad!</p>
+                <button>Läs mer</button>
+                //tar dig till längre ner på sidan.
             </div>
 
             <div class="leftArrow" onclick="slide(-1)">
@@ -28,9 +29,10 @@
 
         <div class="slide slide2">
             <div class="slide-row1">
-                <h1>Delta i våra aktiviteter</h1>
-                <p>Vi stödjer dig som vill starta förening, organiserar studieresor och föreläsningar, fungerar som forum för miljöengagerade i hela Sverige, och mycket annat.</p>
-                <button>Se våra verksamheter</button>
+                <h1>Gemenskap</h1>
+                <p>Miljöungdom är ett förbud av gymnasiala miljöföreningar. Med oss får du träffa nya vänner, bli inspirerad, och samarbeta för att skapa konkret förändring.</p>
+                <button>Anslut din förening</button>
+                //tar dig till där man ansluter sin förening.
             </div>
 
             <div class="leftArrow" onclick="slide(-1)">
@@ -52,9 +54,10 @@
 
         <div class="slide slide3">
             <div class="slide-row1">
-                <h1>Ett förbund av föreningar</h1>
-                <p>Miljöungdom är ett ungdomsförbund uppbyggt av miljöföreningar runt om i Sverige. Anslut din skolas förening, eller starta en egen!</p>
-                <button>Se våra medlemsföreningar</button>
+                <h1>Miljöföreningar gör skillnad!</h1>
+                <p>Vi i MU har själva varit med om hur miljöföreningar kan skapa förändring i hela skolor. Vi erbjuder allt stöd som kan tänkas behövas för att starta och driva en förening, så vad väntar du på?</p>
+                <button>Starta förening på din skola</button>
+                //tar dig till där man gör en egen förening.
             </div>
 
             <div class="leftArrow" onclick="slide(-1)">
@@ -76,9 +79,10 @@
 
         <div class="slide slide4">
             <div class="slide-row1">
-                <h1>Gå med!</h1>
-                <p>Delta i våra aktiviteter, träffa likasinnade från hela Sverige och utveckla ett handlingskraftigt hållbarhetsarbete på nationell skala. Helt gratis, såklart. Tillsammans gör vi skillnad!</p>
-                <button>Bli aktiv</button>
+                <h1>Möjligheter och resurser</h1>
+                <p>Vi erbjuder våra underföreningar ekonomiskt stöd, studiebesök, workshops, hjälp med pappersarbetet, pant-stöd och mycket mer. Ta din miljöverksamhet till nästa nivå!</p>
+                <button>Ta din miljöverksamhet till nästa nivå</button>
+                //tar en till var man kan ta del av Möjligheter och resurser.
             </div>
 
             <div class="leftArrow" onclick="slide(-1)">
@@ -100,9 +104,10 @@
 
         <div class="slide slide5">
             <div class="slide-row1">
-                <h1>Engagera dig!</h1>
-                <p>Miljöungdom drivs av ideellt engagemang hos medlemmarna. Var med och ta vår verksamhet till nästa nivå!</p>
-                <button>Bli medlem nu</button>
+                <h1>Kontakta oss!</h1>
+                <p>Miljöungdom styrs av våra underföreningar, och styrelsen består av ideellt engagerade medlemmar. Hör av er till oss med förslag, frågor, ordvitsar, kritik, lösa tankar, mm.</p>
+                <button>Kontakt</button>
+                //tar en till kontaktsidan
             </div>
 
             <div class="leftArrow" onclick="slide(-1)">
@@ -123,19 +128,43 @@
         </div>
     
         <div class="section">
-            <h2>Rubrik här</h2>
             
             <p>
-            Välkommen! Om du är medlem i en miljöförening vart som helst i Sverige kan du anmäla din förening att bli del av förbundet Miljöungdom här. En medlemsförening får tillgång till allting som Miljöungdom erbjuder; en gemenskap av likasinnade, kontakter inför framtiden, tips om verksamheten, hjälp 
-            med det juridiska, och inflytande över förbundet Miljöungdom.
+            Miljöungdom är ett ideellt ungdomsförbund för miljöföreningar på gymnasieskolor. Vi är ett förbund som vill göra det så enkelt som möjligt att göra skillnad!
             
             <br><br>
                 
-            Miljöungdom är ett förbund av föreningar. Det betyder att en enskild person inte kan gå med direkt i förbundet Miljöungdom utan bara genom att först vara medlem i en miljöförening, och sedan ansluta den föreningen till Miljöungdom.
+            Året 2020 är klimatfrågan en alltmer påträngande verklighet, och vi måste ta framtiden i våra egna händer. Vi på Miljöungdom har sett hur miljöföreningar - med ungdomar som sluter samman, stöttar varandra och aktivt arbetar fram förändring - kan förändra spår i hela skolor. Genom att underlätta och främja detta, och skapa en plattform för alla Sveriges miljöengagerade att träffas och samarbeta, kan vi skapa förändring i hela landet. Tillsammans gör vi skillnad!
 
             <br><br>
                 
-            Är du inte medlem i en miljöförening, och har ingen lokal miljöförening som du kan gå med i? Miljöungdom erbjuder hjälp med att starta en egen miljöförening. Tryck här för att komma till vår sida om hur du startar en egen miljöförening, det är hur enkelt som helst!
+            Vad gör vi rent konkret?
+                
+            <br><br>
+                
+            Stöd för föreningar: Vi erbjuder allt från stöd och tips för dig som vill starta en miljöförening på din skola, till resurser och möjligheter för er som redan har en förening och vill ta den till nästa nivå tillsammans med andra drivna människor från hela landet.    
+                
+            <br><br>
+                
+            Gemenskap: Miljöungdom är nätverket som binder samman alla unga i Sverige som brinner för miljön, oavsett erfarenheter och grad av engagemang. Med oss får du träffa nya vänner, bli inspirerad, och samarbeta för att skapa konkret förändring. Lär dig av andra, dela med dig av dina egna erfarenheter och påverka mer än bara din egna skola. Vi anordnar allt från möten till utflykter till workshops för våra föreningar.
+                
+            <br><br>
+                
+            Events och möjligheter: Vi vill att våra medlemmar ska ha möjlighet att ta både sina föreningar och sitt personliga miljöintresse till nästa nivå. För att väcka tankar och inspirera kring miljö- och hållbarhetsfrågor arbetar vi aktivt med att fixa allt från föreläsningar till studieresor till praktikmöjligheter och samarbeten med etablerade organisationer och företag. Du som är nyfiken på att studera eller jobba med hållbarhet i framtiden kan få ovärderliga insikter och möjligheter. 
+    
+            <br><br>
+                
+            Ekonomiska bidrag: Med start hösten 2020 ämnar vi erbjuda våra föreningar en startsumma samt ekonomiskt stöd för projekt och verksamhet. Vi planerar även att anordna tävlingar för t.ex hållbarhetsrelaterade gymnasiearbeten, genomförda förändringar på skolor osv i syfte att belöna hårt arbete och engagemang. Detta kan dock bara ske om vi tillsammans samlar så många medlemmar som möjligt!
+
+            <br><br>
+
+            Vilka är vi? 
+                
+            <br><br>
+    
+            Miljöungdoms styrelse består av ett gäng ungdomar som antingen är eller tidigare har varit involverade i gymnasiala miljöföreningar. Men det är inte vi som styr förbundet: Våra medlemsföreningar fattar alla beslut på årsmötet, och bestämmer över förbundets framtida arbete. Någon dag kanske du själv kandiderar för en post i vår styrelse! 
+    
+                
             </p>
         </div>
         
