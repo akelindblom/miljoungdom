@@ -7,7 +7,6 @@
                 <h1>Vill du göra skillnad?</h1>
                 <p>Vi med! Miljöungdom är ett ideellt förbund som samlar alla Sveriges unga miljöengagerade i en gemenskap. Tillsammans gör vi skillnad!</p>
                 <button>Läs mer</button>
-                //tar dig till längre ner på sidan.
             </div>
 
             <div class="leftArrow" onclick="slide(-1)">
@@ -32,7 +31,6 @@
                 <h1>Gemenskap</h1>
                 <p>Miljöungdom är ett förbud av gymnasiala miljöföreningar. Med oss får du träffa nya vänner, bli inspirerad, och samarbeta för att skapa konkret förändring.</p>
                 <button>Anslut din förening</button>
-                //tar dig till där man ansluter sin förening.
             </div>
 
             <div class="leftArrow" onclick="slide(-1)">
@@ -57,7 +55,6 @@
                 <h1>Miljöföreningar gör skillnad!</h1>
                 <p>Vi i MU har själva varit med om hur miljöföreningar kan skapa förändring i hela skolor. Vi erbjuder allt stöd som kan tänkas behövas för att starta och driva en förening, så vad väntar du på?</p>
                 <button>Starta förening på din skola</button>
-                //tar dig till där man gör en egen förening.
             </div>
 
             <div class="leftArrow" onclick="slide(-1)">
@@ -82,7 +79,6 @@
                 <h1>Möjligheter och resurser</h1>
                 <p>Vi erbjuder våra underföreningar ekonomiskt stöd, studiebesök, workshops, hjälp med pappersarbetet, pant-stöd och mycket mer. Ta din miljöverksamhet till nästa nivå!</p>
                 <button>Ta din miljöverksamhet till nästa nivå</button>
-                //tar en till var man kan ta del av Möjligheter och resurser.
             </div>
 
             <div class="leftArrow" onclick="slide(-1)">
@@ -107,7 +103,6 @@
                 <h1>Kontakta oss!</h1>
                 <p>Miljöungdom styrs av våra underföreningar, och styrelsen består av ideellt engagerade medlemmar. Hör av er till oss med förslag, frågor, ordvitsar, kritik, lösa tankar, mm.</p>
                 <button>Kontakt</button>
-                //tar en till kontaktsidan
             </div>
 
             <div class="leftArrow" onclick="slide(-1)">
