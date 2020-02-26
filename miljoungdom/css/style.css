@@ -146,6 +146,12 @@ nav ul li a:hover {
     }
 }
 
+@media screen and (min-width: 100em) {
+    .big-screen {
+        grid-template-columns: 1fr 10em 65em 1fr;
+    }
+}
+
 /* Slideshow in index.html */
 
 .slide {
