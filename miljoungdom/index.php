@@ -6,7 +6,7 @@
             <div class="slide-row1">
                 <h1>Vill du göra skillnad?</h1>
                 <p>Miljöungdom är ett ideellt förbund som binder samman Sveriges unga miljöengagerade. Tillsammans gör vi skillnad!</p>
-                <button>Läs mer</button>
+                <a href="läsMer"><button>Läs mer</button></a>
             </div>
 
             <div class="leftArrow" onclick="slide(-1)">
@@ -124,7 +124,7 @@
     
         <div class="section">
             
-            <p>
+            <p id="läsMer">
             Miljöungdom är ett ideellt ungdomsförbund för miljöföreningar på gymnasieskolor. Vi är ett förbund som vill göra det så enkelt som möjligt att göra skillnad!
             
             <br><br>
