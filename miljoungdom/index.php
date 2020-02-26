@@ -5,7 +5,7 @@
         <div class="slide slide1">
             <div class="slide-row1">
                 <h1>Vill du göra skillnad?</h1>
-                <p>Vi med! Miljöungdom är ett ideellt förbund som samlar alla Sveriges unga miljöengagerade i en gemenskap. Tillsammans gör vi skillnad!</p>
+                <p>Miljöungdom är ett ideellt förbund som binder samman Sveriges unga miljöengagerade. Tillsammans gör vi skillnad!</p>
                 <button>Läs mer</button>
             </div>
 
@@ -29,8 +29,8 @@
         <div class="slide slide2">
             <div class="slide-row1">
                 <h1>Gemenskap</h1>
-                <p>Miljöungdom är ett förbud av gymnasiala miljöföreningar. Med oss får du träffa nya vänner, bli inspirerad, och samarbeta för att skapa konkret förändring.</p>
-                <button>Anslut din förening</button>
+                <p>Miljöungdom är ett förbund av gymnasiala miljöföreningar. Träffa nya vänner, bli inspirerad, och samarbeta för att skapa förändring.</p>
+                <button>Anslut din förening nu</button>
             </div>
 
             <div class="leftArrow" onclick="slide(-1)">
@@ -52,9 +52,9 @@
 
         <div class="slide slide3">
             <div class="slide-row1">
-                <h1>Miljöföreningar gör skillnad!</h1>
-                <p>Vi i MU har själva varit med om hur miljöföreningar kan skapa förändring i hela skolor. Vi erbjuder allt stöd som kan tänkas behövas för att starta och driva en förening, så vad väntar du på?</p>
-                <button>Starta förening på din skola</button>
+                <h1>Miljöföreningar gör skillnad</h1>
+                <p>Våra medlemsföreningar har skapat verklig förändring på sina gymnasieskolor. Läs vad de har gjort.</p>
+                <button>Våra föreningar</button>
             </div>
 
             <div class="leftArrow" onclick="slide(-1)">
@@ -76,9 +76,9 @@
 
         <div class="slide slide4">
             <div class="slide-row1">
-                <h1>Möjligheter och resurser</h1>
-                <p>Vi erbjuder våra underföreningar ekonomiskt stöd, studiebesök, workshops, hjälp med pappersarbetet, pant-stöd och mycket mer. Ta din miljöverksamhet till nästa nivå!</p>
-                <button>Ta din miljöverksamhet till nästa nivå</button>
+                <h1>Enkelt att starta förening</h1>
+                <p>Miljöungdom erbjuder allt tänkbart stöd för att starta och driva en förening, så vad väntar du på?</p>
+                <button>Skapa förening</button>
             </div>
 
             <div class="leftArrow" onclick="slide(-1)">
@@ -100,9 +100,9 @@
 
         <div class="slide slide5">
             <div class="slide-row1">
-                <h1>Kontakta oss!</h1>
-                <p>Miljöungdom styrs av våra underföreningar, och styrelsen består av ideellt engagerade medlemmar. Hör av er till oss med förslag, frågor, ordvitsar, kritik, lösa tankar, mm.</p>
-                <button>Kontakt</button>
+                <h1>Möjligheter och resurser</h1>
+                <p>Vi erbjuder våra medlemmar många möjligheter att ta både sin förening och sitt personliga miljöintresse till nästa nivå.</p>
+                <button>Utforska</button>
             </div>
 
             <div class="leftArrow" onclick="slide(-1)">
