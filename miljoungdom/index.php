@@ -102,7 +102,7 @@
             <div class="slide-row1">
                 <h1>Möjligheter och resurser</h1>
                 <p>Vi erbjuder våra medlemmar många möjligheter att ta både sin förening och sitt personliga miljöintresse till nästa nivå.</p>
-                <button>Utforska</button>
+                <a href="sida4.php"><button>Utforska</button></a>
             </div>
 
             <div class="leftArrow" onclick="slide(-1)">
