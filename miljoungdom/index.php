@@ -137,19 +137,27 @@
                 
             <br><br>
                 
-            Stöd för föreningar: Vi erbjuder allt från stöd och tips för dig som vill starta en miljöförening på din skola, till resurser och möjligheter för er som redan har en förening och vill ta den till nästa nivå tillsammans med andra drivna människor från hela landet.    
+            Stöd för föreningar
+            <br>                
+            Vi erbjuder allt från stöd och tips för dig som vill starta en miljöförening på din skola, till resurser och möjligheter för er som redan har en förening och vill ta den till nästa nivå tillsammans med andra drivna människor från hela landet.    
                 
             <br><br>
                 
-            Gemenskap: Miljöungdom är nätverket som binder samman alla unga i Sverige som brinner för miljön, oavsett erfarenheter och grad av engagemang. Med oss får du träffa nya vänner, bli inspirerad, och samarbeta för att skapa konkret förändring. Lär dig av andra, dela med dig av dina egna erfarenheter och påverka mer än bara din egna skola. Vi anordnar allt från möten till utflykter till workshops för våra föreningar.
+            Gemenskap
+            <br>                
+            Miljöungdom är nätverket som binder samman alla unga i Sverige som brinner för miljön, oavsett erfarenheter och grad av engagemang. Med oss får du träffa nya vänner, bli inspirerad, och samarbeta för att skapa konkret förändring. Lär dig av andra, dela med dig av dina egna erfarenheter och påverka mer än bara din egna skola. Vi anordnar allt från möten till utflykter till workshops för våra föreningar.
                 
             <br><br>
                 
-            Events och möjligheter: Vi vill att våra medlemmar ska ha möjlighet att ta både sina föreningar och sitt personliga miljöintresse till nästa nivå. För att väcka tankar och inspirera kring miljö- och hållbarhetsfrågor arbetar vi aktivt med att fixa allt från föreläsningar till studieresor till praktikmöjligheter och samarbeten med etablerade organisationer och företag. Du som är nyfiken på att studera eller jobba med hållbarhet i framtiden kan få ovärderliga insikter och möjligheter. 
+            Events och möjligheter
+            <br>                
+            Vi vill att våra medlemmar ska ha möjlighet att ta både sina föreningar och sitt personliga miljöintresse till nästa nivå. För att väcka tankar och inspirera kring miljö- och hållbarhetsfrågor arbetar vi aktivt med att fixa allt från föreläsningar till studieresor till praktikmöjligheter och samarbeten med etablerade organisationer och företag. Du som är nyfiken på att studera eller jobba med hållbarhet i framtiden kan få ovärderliga insikter och möjligheter. 
     
             <br><br>
                 
-            Ekonomiska bidrag: Med start hösten 2020 ämnar vi erbjuda våra föreningar en startsumma samt ekonomiskt stöd för projekt och verksamhet. Vi planerar även att anordna tävlingar för t.ex hållbarhetsrelaterade gymnasiearbeten, genomförda förändringar på skolor osv i syfte att belöna hårt arbete och engagemang. Detta kan dock bara ske om vi tillsammans samlar så många medlemmar som möjligt!
+            Ekonomiska bidrag
+            <br>                
+            Med start hösten 2020 ämnar vi erbjuda våra föreningar en startsumma samt ekonomiskt stöd för projekt och verksamhet. Vi planerar även att anordna tävlingar för t.ex hållbarhetsrelaterade gymnasiearbeten, genomförda förändringar på skolor osv i syfte att belöna hårt arbete och engagemang. Detta kan dock bara ske om vi tillsammans samlar så många medlemmar som möjligt!
 
             <br><br>
 
