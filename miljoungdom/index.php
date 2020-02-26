@@ -54,7 +54,7 @@
             <div class="slide-row1">
                 <h1>Miljöföreningar gör skillnad</h1>
                 <p>Våra medlemsföreningar har skapat verklig förändring på sina gymnasieskolor. Läs vad de har gjort.</p>
-                <button>Våra föreningar</button>
+                <a href="sida5.php"><button>Våra föreningar</button></a>
             </div>
 
             <div class="leftArrow" onclick="slide(-1)">
